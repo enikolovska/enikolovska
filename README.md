@@ -6,7 +6,7 @@ I enjoy learning new things, experimenting with projects, and applying my academ
 
 ### 💻 Projects
 - [**Thoracic Surgery Classification**](https://github.com/enikolovska/ThoracicSurgeryClassification) – Predicting patient mortality after thoracic surgery using machine learning models.  
-- [**Spatial Interpolation**](https://github.com/enikolovska/SpatialInterpolationt) – Spatial interpolation of PM2.5 particle concentrations in the city of Oslo.  
+- [**Spatial Interpolation**](https://github.com/enikolovska/SpatialInterpolation) – Spatial interpolation of PM2.5 particle concentrations in the city of Oslo.  
 - [**Gardenino Project**](https://github.com/enikolovska/GardeninoProject) – A mobile robotic cart equipped with sensors, designed for planting agricultural crops.  
 - [**Diamond Price Prediction**](https://github.com/enikolovska/DiamondPricePrediction) – Predicting diamond prices based on their characteristics using multiple machine learning models.  
 - [**Plant Diseases Project**](https://github.com/enikolovska/PlantDiseasesProject) – A deep learning model for recognizing plant diseases.  
