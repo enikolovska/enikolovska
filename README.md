@@ -11,7 +11,6 @@ I enjoy learning new things, experimenting with projects, and applying my academ
 - [**Pet Image Segmentation**](https://github.com/enikolovska/unet-pet-segmentation) - Semantic segmentation project using a U-Net architecture to isolate pets from backgrounds.
 - [**Gardenino Project**](https://github.com/enikolovska/GardeninoProject) – A mobile robotic cart equipped with sensors, designed for planting agricultural crops.  
 - [**Plant Diseases Project**](https://github.com/enikolovska/PlantDiseasesProject) – A deep learning model for recognizing plant diseases using Convolutional Neural Networks.
-- [**Spatial Interpolation**](https://github.com/enikolovska/SpatialInterpolation) – Spatial interpolation of PM2.5 particle concentrations in the city of Oslo.
 - [**BookWormNet**](https://github.com/enikolovska/BookWormNetProject) – A personal web-based e-diary for tracking and managing books I’ve read.  
 
 
